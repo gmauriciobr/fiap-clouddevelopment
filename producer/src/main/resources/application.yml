@@ -1,0 +1,6 @@
+fiap:
+  connection_string: ${CONNECTION_STRING}
+  teste_queue: ${TESTE_QUEUE}
+
+server:
+  port: ${SERVER_PORT:8080}
